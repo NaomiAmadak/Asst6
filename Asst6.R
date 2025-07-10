@@ -1,0 +1,2 @@
+head(swiss)
+summary(swiss)
